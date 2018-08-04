@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PsychoGest", "PsychoGest\PsychoGest.csproj", "{14647FC6-A5F6-4BC3-B4E1-9F9B1903071E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14647FC6-A5F6-4BC3-B4E1-9F9B1903071E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14647FC6-A5F6-4BC3-B4E1-9F9B1903071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14647FC6-A5F6-4BC3-B4E1-9F9B1903071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14647FC6-A5F6-4BC3-B4E1-9F9B1903071E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6B81C5-D33A-4569-86C2-C884C0C18EC3}
+	EndGlobalSection
+EndGlobal
