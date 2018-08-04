@@ -10,7 +10,7 @@
             <span class="info-box-icon push-bottom"><i class="ion ion-ios-pricetag-outline"></i></span>
 
             <div class="info-box-content">
-              <span class="info-box-text">New Clients</span>
+              <span class="info-box-text">Nouveaux clients</span>
               <span class="info-box-number">450</span>
 
               <div class="progress">
